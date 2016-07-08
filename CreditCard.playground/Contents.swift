@@ -2,7 +2,7 @@
 //jpan@hamdenhall.org
 //
 //Credit Card Checker
-var card = 4222222222206
+var card = 4222222222206  //fake num from Paypal's list of numbers for testing
 var sumA = 0
 var sumB = 0
 var numOfDigit = 0;
